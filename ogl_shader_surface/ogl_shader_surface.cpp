@@ -95,7 +95,7 @@ int main()
 	printf("Step 8 - Setting Up Model View\n");
 	setproj();
 
-	printf("Step 8 - Initiating Main Loop\n");
+	printf("Step 9 - Initiating Main Loop\n");
 	while (!glfwWindowShouldClose(window))
 	{
 
